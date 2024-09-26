@@ -14,7 +14,11 @@
 # print(max([4, 5, 6, 8]))
 
 b = 5
-
-# b = b + 2
-b += 2
 print(b)
+# b = b + 2
+# b += 2
+# print(b)
+
+n = [5]
+print(n[0])
+
